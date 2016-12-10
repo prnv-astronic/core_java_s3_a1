@@ -1,0 +1,16 @@
+package CORE_JAVA_WELCOM;
+
+public class core_java_session3_assignment1 {
+		static{
+		print(10); 
+		}
+		static void print (int x) {
+			System.out.println (x);
+			System.exit(0);
+			}
+
+}
+
+
+
+// Answer is Option D: It will run with no output
